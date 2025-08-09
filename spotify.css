@@ -224,7 +224,6 @@ artists::-webkit-scrollbar {
 }
 .a{ 
     padding:10px;
-    /* border-radius: 20px; */
     display: flex;
 }
 
@@ -369,11 +368,6 @@ h2{
 }
 .player-icon:hover{
     opacity:1;
-}
-.progess{
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 .pro-bar{
     width:70%;
